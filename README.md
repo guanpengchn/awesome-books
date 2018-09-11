@@ -14,6 +14,7 @@
 - MySQL必知必会
 - Netty权威指南
 - redis设计与实现(第二版)
+- Redis开发与运维
 - Spring揭秘
 - TCP/IP网络编程
 - 大型分布式网站架构设计与实践
@@ -21,3 +22,4 @@
 - 实战Java高并发程序设计
 - 深入理解Java虚拟机：JVM高级特性与最佳实践
 - 高性能mysql第三版
+- 深入浅出Node.js
