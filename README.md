@@ -6,7 +6,6 @@
 
 ### Java
 
-- Java
 - 实战Java高并发程序设计
 - Effective+Java中文第二版
 - Head First设计模式
