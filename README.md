@@ -21,11 +21,13 @@
 - JavaScript高级程序设计（第3版）
 - 深入浅出Node.js
 - JavaScript设计模式与开发实践
+- ECMAScript6入门
 
 ### 算法
 
 - 编程之美
 - 代码大全
+- 算法竞赛入门经典
 
 ### 系统与协议
 
