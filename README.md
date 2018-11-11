@@ -66,6 +66,7 @@
 
 ### 其他
 
+<<<<<<< HEAD
 |书名|豆瓣评分|操作|
 |---|:-:|:-:|
 |Go程序设计语言|[9.5](https://book.douban.com/subject/26859123/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/Go%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80.pdf)|
@@ -74,3 +75,7 @@
 |浪潮之巅|[9.1](https://book.douban.com/subject/6709783/)|[下载]()|
 |黑客与画家|[8.8](https://book.douban.com/subject/6021440/)|[下载]()|
 |Hadoop The Definitive Guide|[8.3](https://book.douban.com/subject/3220004/)|[下载]()|
+=======
+- Go程序设计语言
+- Scala编程
+>>>>>>> 5f93568b70fa4c91e3777d6bed01447fb53e4225
