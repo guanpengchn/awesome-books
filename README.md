@@ -51,7 +51,7 @@
 |MySQL必知必会|[8.4](https://book.douban.com/subject/3354490/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/MySQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A.pdf)|
 |高性能MySQL第三版|[9.3](https://book.douban.com/subject/23008813/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E9%AB%98%E6%80%A7%E8%83%BDmysql%E7%AC%AC%E4%B8%89%E7%89%88.pdf)|
 |Redis开发与运维|[9.0](https://book.douban.com/subject/26971561/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/Redis%E5%BC%80%E5%8F%91%E4%B8%8E%E8%BF%90%E7%BB%B4.pdf)|
-|Redis设计与实现（第二版）|[8.5](https://book.douban.com/subject/25900156/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%BA%8C%E7%89%88).pdf)|
+|Redis设计与实现（第二版）|[8.5](https://book.douban.com/subject/25900156/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)|
 
 ### 软件工程
 
