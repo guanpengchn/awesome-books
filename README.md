@@ -65,7 +65,7 @@
 |书名|豆瓣评分|操作|
 |---|:-:|:-:|
 |统计学习方法|[9.0](https://book.douban.com/subject/10590856/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)|
-|机器学习|[8.7](https://book.douban.com/subject/26708119/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)|
+|机器学习|[8.7](https://book.douban.com/subject/26708119/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)|
 
 ### 其他
 
