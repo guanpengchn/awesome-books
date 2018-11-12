@@ -42,7 +42,8 @@
 |TCP/IP网络编程|[8.4](https://book.douban.com/subject/25911735/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/TCP&IP%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.pdf)|
 |图解HTTP|[8.1](https://book.douban.com/subject/25863515/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%9B%BE%E8%A7%A3HTTP.pdf)|
 |大型网站技术架构|[7.9](https://book.douban.com/subject/25723064/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84.pdf)|
-|linux系统编程|[8.0](https://book.douban.com/subject/3907181/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B.pdf)| 
+|linux系统编程|[8.0](https://book.douban.com/subject/3907181/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B.pdf)|
+|大规模分布式存储系统|[7.9](https://book.douban.com/subject/25723658/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F.pdf)|
 
 ### 数据库
 
