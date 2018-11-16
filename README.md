@@ -68,6 +68,13 @@
 |统计学习方法|[9.0](https://book.douban.com/subject/10590856/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)|
 |机器学习|[8.7](https://book.douban.com/subject/26708119/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf)|
 
+### 软件测试
+
+|书名|豆瓣评分|操作|
+|---|:-:|:-:|
+|软件测试的艺术|[8.4](https://book.douban.com/subject/1445661/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E8%89%BA%E6%9C%AF.pdf)|
+|How-Google-Tests-Software|[8.2](https://book.douban.com/subject/25742200/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/How-Google-Tests-Software.pdf)|
+
 ### 其他
 
 |书名|豆瓣评分|操作|
@@ -78,3 +85,4 @@
 |浪潮之巅|[9.1](https://book.douban.com/subject/6709783/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85.pdf)|
 |黑客与画家|[8.8](https://book.douban.com/subject/6021440/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)|
 |Hadoop The Definitive Guide|[8.3](https://book.douban.com/subject/3220004/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/Hadoop%20The%20Definitive%20Guide.pdf)|
+|写给大家看的设计书|[8.9](https://book.douban.com/subject/26664522/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%86%99%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%9C%8B%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B9%A6.pdf)|
