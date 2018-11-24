@@ -43,6 +43,7 @@
 |图解HTTP|[8.1](https://book.douban.com/subject/25863515/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%9B%BE%E8%A7%A3HTTP.pdf)|
 |大型网站技术架构|[7.9](https://book.douban.com/subject/25723064/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84.pdf)|
 |linux系统编程|[8.0](https://book.douban.com/subject/3907181/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B.pdf)|
+|UNIX环境高级编程|[9.3](https://book.douban.com/subject/25900403/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.pdf)|
 |大规模分布式存储系统|[7.9](https://book.douban.com/subject/25723658/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F.pdf)|
 
 ### 数据库
@@ -86,3 +87,4 @@
 |黑客与画家|[8.8](https://book.douban.com/subject/6021440/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)|
 |Hadoop The Definitive Guide|[8.3](https://book.douban.com/subject/3220004/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/Hadoop%20The%20Definitive%20Guide.pdf)|
 |写给大家看的设计书|[8.9](https://book.douban.com/subject/26664522/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%86%99%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%9C%8B%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B9%A6.pdf)|
+|程序员修炼之道|[8.8](https://book.douban.com/subject/5387402/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)|
