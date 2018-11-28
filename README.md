@@ -45,6 +45,7 @@
 |linux系统编程|[8.0](https://book.douban.com/subject/3907181/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B.pdf)|
 |UNIX环境高级编程|[9.3](https://book.douban.com/subject/25900403/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.pdf)|
 |大规模分布式存储系统|[7.9](https://book.douban.com/subject/25723658/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F.pdf)|
+|微服务设计|[8.2](https://book.douban.com/subject/26772677/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1.pdf)|
 
 ### 数据库
 
@@ -76,12 +77,17 @@
 |软件测试的艺术|[8.4](https://book.douban.com/subject/1445661/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E8%89%BA%E6%9C%AF.pdf)|
 |How-Google-Tests-Software|[8.2](https://book.douban.com/subject/25742200/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/How-Google-Tests-Software.pdf)|
 
-### 其他
+### 编程语言
 
 |书名|豆瓣评分|操作|
 |---|:-:|:-:|
 |Go程序设计语言|[9.5](https://book.douban.com/subject/26859123/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/Go%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80.pdf)|
 |Scala编程|[9.1](https://book.douban.com/subject/27591387/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/Scala%E7%BC%96%E7%A8%8B.pdf)|
+
+### 其他
+
+|书名|豆瓣评分|操作|
+|---|:-:|:-:|
 |别闹了，费曼先生|[8.9](https://book.douban.com/subject/1037602/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%88%AB%E9%97%B9%E4%BA%86%EF%BC%8C%E8%B4%B9%E6%9B%BC%E5%85%88%E7%94%9F.pdf)|
 |浪潮之巅|[9.1](https://book.douban.com/subject/6709783/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85.pdf)|
 |黑客与画家|[8.8](https://book.douban.com/subject/6021440/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)|
