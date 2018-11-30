@@ -46,6 +46,8 @@
 |UNIX环境高级编程|[9.3](https://book.douban.com/subject/25900403/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B.pdf)|
 |大规模分布式存储系统|[7.9](https://book.douban.com/subject/25723658/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F.pdf)|
 |微服务设计|[8.2](https://book.douban.com/subject/26772677/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1.pdf)|
+|从PAXOS到ZOOKEEPER|[7.8](https://book.douban.com/subject/26292004/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E4%BB%8EPAXOS%E5%88%B0ZOOKEEPER.pdf)|
+|分布式服务架构原理、设计与实战|[7.4](https://book.douban.com/subject/27091029/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%EF%BC%9A%E5%8E%9F%E7%90%86%E3%80%81%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E6%88%98)|
 
 ### 数据库
 
