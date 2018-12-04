@@ -1,4 +1,4 @@
-这里存放了所有自己收集的**带目录**电子书籍pdf，都是**豆瓣评分高**的书籍，支持封面[查看](hhttps://github.com/guanpengchn/aaron.books/tree/master/cover)和点击下载，书籍资源均源于网络
+这里存放了所有自己收集的**带目录**电子书籍pdf，都是**豆瓣评分高**的书籍，支持封面[查看](https://github.com/guanpengchn/aaron.books/tree/master/cover)和点击下载，书籍资源均源于网络
 
 其中书籍目录如下：
 
