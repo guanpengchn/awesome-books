@@ -1,7 +1,9 @@
-书籍来源：网络收集
-书籍格式：**带目录**电子书pdf
-书籍标准：豆瓣评分7以上
-书籍支持：封面[查看](https://github.com/guanpengchn/aaron.books/tree/master/cover)、和点击下载
+## 简介
+
+- 书籍来源：网络收集
+- 书籍格式：**带目录**电子书pdf
+- 书籍标准：豆瓣评分7以上
+- 书籍支持：封面[查看](https://github.com/guanpengchn/aaron.books/tree/master/cover)、和点击下载
 
 其中书籍目录、相关评价和下载链接如下：
 
