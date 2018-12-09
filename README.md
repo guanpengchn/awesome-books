@@ -31,6 +31,7 @@
 |深入浅出Node.js|[8.5](https://book.douban.com/subject/25768396/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%89%8D%E7%AB%AF/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)|
 |JavaScript设计模式与开发实践|[9.1](https://book.douban.com/subject/26382780/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%89%8D%E7%AB%AF/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf)|
 |ECMAScript6入门|[8.2](https://book.douban.com/subject/25966265/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%89%8D%E7%AB%AF/ECMAScript6%E5%85%A5%E9%97%A8.pdf)|
+|深入React技术栈|[8.1](https://book.douban.com/subject/26918038/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%89%8D%E7%AB%AF/%E6%B7%B1%E5%85%A5REACT%E6%8A%80%E6%9C%AF%E6%A0%88.pdf)|
 
 ### 机器学习
 
