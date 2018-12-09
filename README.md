@@ -1,6 +1,9 @@
-这里存放了所有自己收集的**带目录**电子书籍pdf，都是**豆瓣评分高**的书籍，支持封面[查看](https://github.com/guanpengchn/aaron.books/tree/master/cover)和点击下载，书籍资源均源于网络
+书籍来源：网络收集
+书籍格式：**带目录**电子书pdf
+书籍标准：豆瓣评分7以上
+书籍支持：封面[查看](https://github.com/guanpengchn/aaron.books/tree/master/cover)、和点击下载
 
-其中书籍目录如下：
+其中书籍目录、相关评价和下载链接如下：
 
 ## 目录
 
@@ -32,6 +35,12 @@
 |JavaScript设计模式与开发实践|[9.1](https://book.douban.com/subject/26382780/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%89%8D%E7%AB%AF/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf)|
 |ECMAScript6入门|[8.2](https://book.douban.com/subject/25966265/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%89%8D%E7%AB%AF/ECMAScript6%E5%85%A5%E9%97%A8.pdf)|
 |深入React技术栈|[8.1](https://book.douban.com/subject/26918038/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%89%8D%E7%AB%AF/%E6%B7%B1%E5%85%A5React%E6%8A%80%E6%9C%AF%E6%A0%88.pdf)|
+|Web性能权威指南|[8.8](https://book.douban.com/subject/25856314/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)|
+|你不知道的JavaScript（上卷）|[9.4](https://book.douban.com/subject/26351021/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%89%8D%E7%AB%AF/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%EF%BC%88%E4%B8%8A%E5%8D%B7%EF%BC%89.pdf)|
+|你不知道的JavaScript（中卷）|[8.9](https://book.douban.com/subject/26854244/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%89%8D%E7%AB%AF/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%EF%BC%88%E4%B8%AD%E5%8D%B7%EF%BC%89.pdf)|
+|你不知道的JavaScript（下卷）|[8.0](https://book.douban.com/subject/27620408/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%89%8D%E7%AB%AF/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%EF%BC%88%E4%B8%8B%E5%8D%B7%EF%BC%89.pdf)|
+|CSS世界|[7.9](https://book.douban.com/subject/27615777/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/CSS%E4%B8%96%E7%95%8C.pdf)|
+|WebGL编程指南|[7.9](https://book.douban.com/subject/25909351/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/WebGL%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)|
 
 ### 机器学习
 
@@ -104,6 +113,7 @@
 |书名|豆瓣评分|操作|
 |---|:-:|:-:|
 |Go程序设计语言|[9.5](https://book.douban.com/subject/26859123/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Go%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80.pdf)|
+|Go语言实战|[7.8](https://book.douban.com/subject/27015617/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf)|
 |Scala编程|[9.1](https://book.douban.com/subject/27591387/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Scala%E7%BC%96%E7%A8%8B.pdf)|
 
 ### 其他
@@ -115,3 +125,4 @@
 |黑客与画家|[8.8](https://book.douban.com/subject/6021440/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%85%B6%E4%BB%96/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)|
 |写给大家看的设计书|[8.9](https://book.douban.com/subject/26664522/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%85%B6%E4%BB%96/%E5%86%99%E7%BB%99%E5%A4%A7%E5%AE%B6%E7%9C%8B%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B9%A6.pdf)|
 |程序员修炼之道|[8.8](https://book.douban.com/subject/5387402/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%85%B6%E4%BB%96/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)|
+|GitHub入门与实践|[8.0](https://book.douban.com/subject/26462816/)|[下载](https://github.com/guanpengchn/aaron.books/raw/master/%E5%85%B6%E4%BB%96/GitHub%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)|
