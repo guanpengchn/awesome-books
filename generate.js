@@ -82,7 +82,9 @@ function writeREADME() {
       const info = db[isbn]
       // 处理标题
       info.title = info.title.includes('/') ? info.title.replace('/', '&') : info.title
+      info.title = info.title.includes('(') ? info.title.replace('(', '（').replace(')', '）') : info.title
       info.subtitle = info.subtitle.includes('/') ? info.subtitle.replace('/', '&').trim() : info.subtitle.trim()
+      info.subtitle = info.subtitle.includes('(') ? info.subtitle.replace('(', '（').replace(')', '）') : info.subtitle
       const title = (info.title === info.subtitle || !info.subtitle.length) ? info.title : `${info.title} ${info.subtitle}`
       const encodeTitle = encodeURI(title)
       // 处理种类
