@@ -88,7 +88,7 @@ function writeREADME() {
       // 处理种类
       const encodeType = encodeURI(type)
       // 生成一行表格
-      const line = `|${title}|[${info.rating.average}](${info.alt})|[![](download.png)](https://github.com/guanpengchn/aaron.books/raw/master/${encodeType}/${encodeTitle}.pdf) [![](buycar.png)](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
+      const line = `|${title}|[${info.rating.average}](${info.alt})|[![](https://raw.githubusercontent.com/guanpengchn/aaron.books/master/download.png)](https://github.com/guanpengchn/aaron.books/raw/master/${encodeType}/${encodeTitle}.pdf) [![](https://raw.githubusercontent.com/guanpengchn/aaron.books/master/buycar.png)](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
       content += line
     })
   })
