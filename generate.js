@@ -40,8 +40,8 @@ function getHead(type) {
 `
 ### ${type}
 
-|书名|豆瓣评分|下载|购买|
-|---|:-:|:-:|:-:|
+|书名|豆瓣评分|操作|
+|---|:-:|:-:|
 `
   return head
 }
@@ -85,7 +85,7 @@ function writeREADME() {
       const title = info.title === info.subtitle ? info.title : `${info.title} ${info.subtitle}`
       const encodeTitle = encodeURI(title)
       // 生成一行表格
-      const line = `|${title}|[${info.rating.average}](${info.alt})|[下载](https://github.com/guanpengchn/aaron.books/raw/master/${type}/${encodeTitle}.pdf)|[购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
+      const line = `|${title}|[${info.rating.average}](${info.alt})|[下载](https://github.com/guanpengchn/aaron.books/raw/master/${type}/${encodeTitle}.pdf) [购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
       content += line
     })
   })
