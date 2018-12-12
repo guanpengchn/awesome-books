@@ -40,8 +40,8 @@ function getHead(type) {
 `
 ### ${type}
 
-|书名|豆瓣评分|作者|操作|
-|---|:-:|:-:|:-:|
+|书名|豆瓣评分|作者|译者|下载|购买|
+|---|:-:|:-:|:-:|:-:|:-:|
 `
   return head
 }
@@ -84,8 +84,16 @@ function writeREADME() {
       info.subtitle = info.subtitle.includes('/') ? info.subtitle.replace('/', '&') : info.subtitle
       const title = info.title === info.subtitle ? info.title : `${info.title} ${info.subtitle}`
       const encodeTitle = encodeURI(title)
+      // 处理作者译者
+      let author = info.author.length > 1 ? `${info.author[0]}等` : info.author[0]
+      author = author.replace('【', '[').replace('】', ']')
+      let translator = ''
+      if (info.translator.length) {
+        translator = info.translator.length > 1 ? `${info.translator[0]}等` : info.translator[0]
+        translator = translator.replace('【', '[').replace('】', ']')
+      }
       // 生成一行表格
-      const line = `|${title}|[${info.rating.average}](${info.alt})|${info.author.join()}|[下载](https://github.com/guanpengchn/aaron.books/raw/master/${type}/${encodeTitle}.pdf) [购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
+      const line = `|${title}|[${info.rating.average}](${info.alt})|${author}|${translator}|[下载](https://github.com/guanpengchn/aaron.books/raw/master/${type}/${encodeTitle}.pdf)|[购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
       content += line
     })
   })
