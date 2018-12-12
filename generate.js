@@ -1,3 +1,4 @@
+// run on node
 const fs = require('fs')
 const https = require('https')
 
@@ -81,11 +82,13 @@ function writeREADME() {
       const info = db[isbn]
       // 处理标题
       info.title = info.title.includes('/') ? info.title.replace('/', '&') : info.title
-      info.subtitle = info.subtitle.includes('/') ? info.subtitle.replace('/', '&') : info.subtitle
-      const title = info.title === info.subtitle ? info.title : `${info.title} ${info.subtitle}`
+      info.subtitle = info.subtitle.includes('/') ? info.subtitle.replace('/', '&').trim() : info.subtitle.trim()
+      const title = (info.title === info.subtitle || !info.subtitle.length) ? info.title : `${info.title} ${info.subtitle}`
       const encodeTitle = encodeURI(title)
+      // 处理种类
+      const encodeType = encodeURI(type)
       // 生成一行表格
-      const line = `|${title}|[${info.rating.average}](${info.alt})|[下载](https://github.com/guanpengchn/aaron.books/raw/master/${type}/${encodeTitle}.pdf) [购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
+      const line = `|${title}|[${info.rating.average}](${info.alt})|[![](download.png)](https://github.com/guanpengchn/aaron.books/raw/master/${encodeType}/${encodeTitle}.pdf) [![](buycar.png)](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
       content += line
     })
   })
