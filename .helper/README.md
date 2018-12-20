@@ -6,7 +6,7 @@
 
 ```js
 cd .helper
-// 生成db.json
+// 爬取豆瓣数据生成db.json
 node generate.js db
 // 根据db.json生成README.md
 node generate.js md
