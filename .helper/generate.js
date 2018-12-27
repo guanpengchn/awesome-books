@@ -11,7 +11,7 @@ const books = {
   '前端': ['9787115470669', '9787115416940', '9787121238369', '9787115388889', '9787115275790', '9787121229428', '9787115349101', '9787115385734', '9787115431165', '9787115471659', '9787115299222', '9787115437303', '9787115335500'], 
   '机器学习': ['9787302423287', '9787302275954'], 
   '算法': ['9787121310928', '9787302356288', '9787121060748'], 
-  '网络': ['9787115358851', '9787115351531', '9787115318978'], 
+  '网络': ['9787115281487', '9787115358851', '9787115351531', '9787115318978'], 
   '数据库': ['9787115191120', '9787111557975', '9787111464747', '9787121198854'],
   '操作系统': ['9787564115197', '9787115352118', '9787111384991', '9787115226266'], 
   '软件工程': ['9787302392644', '9787115221704', '9787115238870'], 
@@ -23,11 +23,13 @@ const books = {
 
 const introduction = 
 `
+> 读一本好书，就是在和高尚的人谈话。 ——歌德
+
 ## 简介
 
 - 书籍来源：网络收集
 - 书籍格式：清晰**带目录**电子书pdf
-- 书籍标准：豆瓣评分**7**以上
+- 书籍标准：豆瓣评分**7**以上，均为值得**精读**的书籍
 - 书籍支持：豆瓣、下载和购买链接
 
 欢迎推荐相同标准书籍
@@ -90,8 +92,8 @@ function writeREADME() {
       // 处理种类
       const encodeType = encodeURI(type)
       // 生成一行表格
-      const line = `|${title}|[${info.rating.average}](${info.alt})|[![](https://raw.githubusercontent.com/guanpengchn/aaron.books/master/.helper/download.png)](https://github.com/guanpengchn/aaron.books/raw/master/${encodeType}/${encodeTitle}.pdf) [![](https://raw.githubusercontent.com/guanpengchn/aaron.books/master/.helper/buycar.png)](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
-      // const line = `|${title}|[${info.rating.average}](${info.alt})|[下载](https://github.com/guanpengchn/aaron.books/raw/master/${encodeType}/${encodeTitle}.pdf) [购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
+      const line = `|${title}|[${info.rating.average}](${info.alt})|[![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/download.png)](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/buycar.png)](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
+      // const line = `|${title}|[${info.rating.average}](${info.alt})|[下载](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
       content += line
     })
   })
