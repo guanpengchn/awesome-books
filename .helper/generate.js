@@ -16,7 +16,7 @@ const books = {
   '操作系统': ['9787564115197', '9787115352118', '9787111384991', '9787115226266'], 
   '软件工程': ['9787302392644', '9787115221704', '9787115238870'], 
   '软件测试': ['9787115330246', '9787111173199'], 
-  '架构设计': ['9787121315787', '9780596521998', '9787121249679', '9787121212000', '9787111430520', '9787115420268'], 
+  '架构设计': ['9787121315787', '9787121271649', '9780596521998', '9787121249679', '9787121212000', '9787111430520', '9787115420268'], 
   '编程语言': ['9787111526285', '9787115445353', '9787121328428'], 
   '其他': ['9787115394095', '9787115404404', '9787108011114', '9787121139512', '9787121123368', '9787115249494']
 }
@@ -92,8 +92,8 @@ function writeREADME() {
       // 处理种类
       const encodeType = encodeURI(type)
       // 生成一行表格
-      const line = `|${title}|[${info.rating.average}](${info.alt})|[![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/download.png)](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/buycar.png)](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
-      // const line = `|${title}|[${info.rating.average}](${info.alt})|[下载](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
+      // const line = `|${title}|[${info.rating.average}](${info.alt})|[![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/download.png)](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/buycar.png)](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
+      const line = `|${title}|[${info.rating.average}](${info.alt})|[下载](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
       content += line
     })
   })
