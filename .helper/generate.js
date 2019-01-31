@@ -92,8 +92,8 @@ function writeREADME() {
       // 处理种类
       const encodeType = encodeURI(type)
       // 生成一行表格
-      // const line = `|${title}|[${info.rating.average}](${info.alt})|[![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/download.png)](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/buycar.png)](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
-      const line = `|${title}|[${info.rating.average}](${info.alt})|[下载](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
+      const line = `|${title}|[${info.rating.average}](${info.alt})|[![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/download.png)](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/buycar.png)](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
+      // const line = `|${title}|[${info.rating.average}](${info.alt})|[下载](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [购买](http://search.dangdang.com/?key=${encodeTitle}&act=input)|\n`
       content += line
     })
   })
