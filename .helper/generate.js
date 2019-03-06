@@ -4,6 +4,7 @@ const https = require("https");
 
 const DB_NAME = "db.json";
 const README_NAME = "../README.md";
+const NOWCODER_README_NAME = "./NOWCODER_README.md";
 
 const books = {
   Java: [
@@ -123,7 +124,23 @@ const introduction = `
 - 书籍来源：网络收集
 - 书籍格式：清晰**带目录**电子书pdf
 - 书籍标准：豆瓣评分**7**以上，均为值得**精读**的书籍
-- 书籍支持：豆瓣、下载和购买链接
+- 书籍支持：豆瓣、下载和图灵社区购买链接
+
+欢迎推荐相同标准书籍
+
+## 目录
+`;
+
+const nowcoderIntroduction = `
+> 读一本好书，就是在和高尚的人谈话。 ——歌德
+
+## 简介
+
+- 书籍地址：[awesome-books](https://github.com/guanpengchn/awesome-books)
+- 书籍来源：网络收集
+- 书籍格式：清晰**带目录**电子书pdf
+- 书籍标准：豆瓣评分**7**以上，均为值得**精读**的书籍
+- 书籍支持：豆瓣、下载和图灵社区购买链接
 
 欢迎推荐相同标准书籍
 
@@ -165,9 +182,13 @@ function saveFile(filename, content) {
 }
 
 // 根据db.json输出README.md
-function writeREADME() {
-  let content = introduction;
-
+function writeREADME(hasIcon = true) {
+  let content;
+  if (hasIcon) {
+    content = introduction;
+  } else {
+    content = nowcoderIntroduction;
+  }
   Object.keys(books).forEach(type => {
     content += getHead(type);
     const isbnArray = books[type];
@@ -195,15 +216,25 @@ function writeREADME() {
       // 处理种类
       const encodeType = encodeURI(type);
       // 生成一行表格
-      const line = `|${title}|[${info.rating.average}](${
-        info.alt
-      })|[下载](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [图灵社区](http://search.dangdang.com/?key=${encodeTitle}&act=input) [当当](http://www.ituring.com.cn/search?q=${encodeTitle})|\n`;
-
+      let line;
+      if (hasIcon) {
+        line = `|${title}|[${info.rating.average}](${
+          info.alt
+        })|[![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/download.png)](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/buycar.png)](http://www.ituring.com.cn/search?q=${encodeTitle})|\n`;
+      } else {
+        line = `|${title}|[${info.rating.average}](${
+          info.alt
+        })|[下载](https://github.com/guanpengchn/awesome-books/raw/master/${encodeType}/${encodeTitle}.pdf) [购买](http://www.ituring.com.cn/search?q=${encodeTitle})|\n`;
+      }
       content += line;
     });
   });
 
-  saveFile(README_NAME, content);
+  if (hasIcon) {
+    saveFile(README_NAME, content);
+  } else {
+    saveFile(NOWCODER_README_NAME, content);
+  }
 }
 
 // 爬取所有书籍内容，输出db.json，注意豆瓣有爬虫限制
@@ -224,4 +255,6 @@ if (options.includes("db")) {
   writeDB();
 } else if (options.includes("md")) {
   writeREADME();
+} else if (options.includes("nowcoder")) {
+  writeREADME(false);
 }

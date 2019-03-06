@@ -10,4 +10,6 @@ cd .helper
 node generate.js db
 // 根据db.json生成README.md
 node generate.js md
+// 根据db.json生成NOWCODER_README.md
+node generate.js nowcoder
 ```
