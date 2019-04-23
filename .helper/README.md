@@ -6,7 +6,7 @@
 
 ```js
 cd .helper
-// 爬取豆瓣数据生成db.json
+// 爬取豆瓣数据生成db.json，豆瓣已经无法爬取，目前只能自行维护数据
 node generate.js db
 // 根据db.json生成README.md
 node generate.js md
