@@ -186,3 +186,10 @@
 |高效团队开发 工具与方法|[7.5](https://book.douban.com/subject/26432720/)|[![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/download.png)](https://github.com/guanpengchn/awesome-books/raw/master/%E5%85%B6%E4%BB%96/%E9%AB%98%E6%95%88%E5%9B%A2%E9%98%9F%E5%BC%80%E5%8F%91%20%E5%B7%A5%E5%85%B7%E4%B8%8E%E6%96%B9%E6%B3%95.pdf) [![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/buycar.png)](http://www.ituring.com.cn/search?q=%E9%AB%98%E6%95%88%E5%9B%A2%E9%98%9F%E5%BC%80%E5%8F%91%20%E5%B7%A5%E5%85%B7%E4%B8%8E%E6%96%B9%E6%B3%95)|
 |鲜活的数据 数据可视化指南|[7.4](https://book.douban.com/subject/19952397/)|[![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/download.png)](https://github.com/guanpengchn/awesome-books/raw/master/%E5%85%B6%E4%BB%96/%E9%B2%9C%E6%B4%BB%E7%9A%84%E6%95%B0%E6%8D%AE%20%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E6%8C%87%E5%8D%97.pdf) [![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/buycar.png)](http://www.ituring.com.cn/search?q=%E9%B2%9C%E6%B4%BB%E7%9A%84%E6%95%B0%E6%8D%AE%20%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E6%8C%87%E5%8D%97)|
 |黑客与画家 硅谷创业之父Paul Graham文集|[8.8](https://book.douban.com/subject/6021440/)|[![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/download.png)](https://github.com/guanpengchn/awesome-books/raw/master/%E5%85%B6%E4%BB%96/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6%20%E7%A1%85%E8%B0%B7%E5%88%9B%E4%B8%9A%E4%B9%8B%E7%88%B6Paul%20Graham%E6%96%87%E9%9B%86.pdf) [![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/buycar.png)](http://www.ituring.com.cn/search?q=%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6%20%E7%A1%85%E8%B0%B7%E5%88%9B%E4%B8%9A%E4%B9%8B%E7%88%B6Paul%20Graham%E6%96%87%E9%9B%86)|
+
+
+---
+
+## 在线资源
+
+- [无名图书](https://www.book345.com) — 中文图书搜索引擎，支持按书名、作者、出版社、标签查找图书
